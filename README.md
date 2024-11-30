@@ -15,7 +15,8 @@ Modelos/: Diretório onde são salvos os modelos gerados pelo treinamento.ipynb.
 
 ## Arquiteturas utilizadas
 DistilBERT (distilbert-base-uncased-finetuned-sst-2-english):
-https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
+
+- https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
 
 - Descrição:
 
@@ -24,7 +25,8 @@ https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-englis
 ---
 
 Twitter-RoBERTa (cardiffnlp/twitter-roberta-base-sentiment):
-https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
+
+- https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
 
 - Descrição:
 
