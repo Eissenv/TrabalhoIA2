@@ -69,5 +69,5 @@ Classificação de Textos:
 
 Classificação de Imagens:
 
-- O usuário envia uma imagem contendo texto.
+- O usuário envia uma imagem contendo texto em inglês.
 - O bot extrai o texto da imagem, processa-o e responde com a classificação de sentimento.
