@@ -11,8 +11,6 @@ chatbot.ipynb: Configura o bot do Telegram e define as funções de resposta par
 
 Classes/: Diretório com os dados utilizados para o treinamento. Inclui arquivos .txt contendo dados para as classes 'positive', 'negative' e 'neutral'.
 
-Modelos/: Diretório onde são salvos os modelos gerados pelo treinamento.ipynb.
-
 ## Arquiteturas utilizadas
 DistilBERT (distilbert-base-uncased-finetuned-sst-2-english):
 
