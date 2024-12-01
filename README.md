@@ -37,11 +37,13 @@ Twitter-RoBERTa (cardiffnlp/twitter-roberta-base-sentiment):
 
 1. Clone esse repositório e coloque os arquivos dentro de uma pasta chamada "TrabalhoIA2" no google drive. 
 
-    Caso queira utilizar outra pasta, lembre de mudar os caminhos utilizados durante o treinamento e o chatbot. Veja um exemplo de caminho dentro de treinamento.ipynb: 
+    Caso queira utilizar outra pasta, lembre de mudar os caminhos utilizados durante o treinamento e o chatbot. Veja exemplos de caminhos dentro de treinamento.ipynb: 
 
     ```python
-    # Diretório das imagens
-    data_dir = '/content/drive/MyDrive/TrabalhoIA2/Classes'
+    # Diretórios
+    project_path = "/content/drive/MyDrive/TrabalhoIA2"
+    model_save_path = f"{project_path}/Modelos"
+    data_path = f"{project_path}/Classes"
     ```
 ---
 2. Execute o arquivo de treinamento.
